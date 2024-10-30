@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Chobzi
+- 👀 I’m interested in enterprise applications like Salesforce and using data to create insight into efficiency opportunities. On a personal level I am interested in setting up Home Automation. 
+- 🌱 I’m currently learning how to configure Home Automation
